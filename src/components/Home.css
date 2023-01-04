@@ -1,0 +1,17 @@
+section {
+  width: 75%;
+}
+
+main {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  background-color: beige;
+  height: 100vh;
+}
+
+.flex-sb {
+  display: flex;
+  justify-content: space-between;
+}
